@@ -1,6 +1,10 @@
 # El Capitan Theme
 
-OS X Yosemite inspired light theme for Sublime Text 3.
+OS X El Capitan inspired light theme for Sublime Text 3.
+
+This theme is the same theme created by [Ricci Adams](https://github.com/iccir), except it uses the new San Francisco font introduced in OS X 10.11 El Capitan.
+
+---
 
 Based on Soda Theme by Ian Hill ([http://buymeasoda.com/](http://buymeasoda.com/))
 
@@ -27,7 +31,7 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
-    git clone https://github.com/iccir/El-Capitan-Theme/ "Theme - El Capitan"
+    git clone https://github.com/codynhat/El-Capitan-Theme/ "Theme - El Capitan"
 
 ### Download Manually
 

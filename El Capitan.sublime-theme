@@ -104,7 +104,7 @@
         "fg": [80, 80, 80],
         "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 0],
-        "font.face": "Helvetica Neue",
+        "font.face": "San Francisco",
         "font.size": 11.5,
         "font.italic": false
     },
@@ -374,7 +374,7 @@
     {
         "class": "label_control",
         "color": [0, 0, 0],
-        "font.face": "Helvetica Neue"        
+        "font.face": "San Francisco"        
     },
     // Text field labels
     {
@@ -407,7 +407,7 @@
     {
         "class": "tool_tip_label_control",
         "color": [0, 0, 0],
-        "font.face": "Helvetica Neue"
+        "font.face": "San Francisco"
     },
 
 //
@@ -489,7 +489,7 @@
         "color": [0, 0, 0],
         "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 0],
-        "font.face": "Helvetica Neue",
+        "font.face": "San Francisco",
         "font.bold": false,
         "font.italic": false
     },
